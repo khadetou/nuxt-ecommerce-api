@@ -10,7 +10,13 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "@prisma/client": "^5.16.1",
+    "@types/bcryptjs": "^2.4.6",
+    "@types/jsonwebtoken": "^9.0.6",
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^9.0.2",
     "nuxt": "^3.12.2",
+    "prisma": "^5.16.1",
     "vue": "latest"
   }
 }
